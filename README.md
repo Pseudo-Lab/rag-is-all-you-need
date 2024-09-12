@@ -37,12 +37,14 @@
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2024/09/09 | OT       |[박수형](https://github.com/Coding-Child)      |
-| 2024/09/ |  Part 1. | 미정 | 
-| 2024/09/ |  Part 1. | 미정 |  
-| 2024/09/ |  Part 1. | 미정 |  
-| 2024/09/ |  Part 1. | 미정 |  
-| 2024/09/ |  Part 1. | 미정 |  
+| 2024/09/09 | OT       | [박수형](https://github.com/Coding-Child) |
+| 2024/09/30 |  Part 1. | [원상윤](https://github.com/comibear) | 
+| 2024/10/07 |  Part 1. | [차수연](https://github.com/cha-suyeon) |  
+| 2024/10/14 |  Part 1. | [이주현](https://github.com/GitLeo1) |  
+| 2024/10/21 |  Part 1. | [박어진](https://github.com/likecola) |  
+| 2024/10/28 |  Part 1. | [박수형](https://github.com/Coding-Child) |  
+| 2024/11/04 |  Part 1. | [신재솔](https://github.com/ysys143) |  
+| 2024/11/11 |  Part 1. | [신서현](https://github.com/sseoni) |  
 
 ## 아카이브
 - 링크
