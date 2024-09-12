@@ -7,7 +7,7 @@
 ## 팀 멤버
 |  | | | 
 |---|------|-------|
-|   <img src = "https://github.com/user-attachments/assets/3f0116bb-f818-437e-a414-5628b24d0812" width="128px;"/> <br/> [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> |
+|   <img src = "https://github.com/user-attachments/assets/3f0116bb-f818-437e-a414-5628b24d0812" width="128px;"/> <br/> [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [박어진]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> |
 | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> | <img src = "https://github.com/user-attachments/assets/5c3994a0-b7cc-435c-91fe-43b2f7bf4720" width="128px;"/> <br/> [???]() (빌더) <br/> ??? <br/> 9기~ <br/> ??? <br/> |
 
 ## 프로젝트 목표
