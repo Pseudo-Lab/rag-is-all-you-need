@@ -35,6 +35,26 @@
 
 ## 스케쥴
 
+### 논문 순서(참고용)
+| 년도  | 논문 제목                     | 저자               |
+|-------|-------------------------------|--------------------|
+| 2020  | DPR                            | Karpukhin          |
+| 2020  | REALM                          | Guu                |
+| 2020  | RAG                            | Lewis              |
+| 2021  | FiD                            | Izacard            |
+| 2021  | EMDR2                          | Singh              |
+| 2022  | RETRO                          | Borgeaud           |
+| 2021  | EPR                            | Rubin              |
+| 2022  | Contriever                     | Gautier            |
+| 2023  | RAG-end2end                    | Siriwardhana       |
+| 2023  | Atlas                          | Izacard            |
+| 2023  | RETRO++                        | Wang               |
+| 2023  | ITER-RETGEN                    | Shao               |
+| 2021  | SPALM                          | Yogatama           |
+| 2023  | Query2doc                      | Wang               |
+
+
+### 발표 스케쥴
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
 | 2024/09/09 | OT       | [박수형](https://github.com/Coding-Child) |
