@@ -7,7 +7,7 @@
 ## 팀 멤버
 |  | | | 
 |---|------|-------|
-| [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> | [박어진](https://github.com/likecola) (러너) <br/> <br/> 9기~ <br/>| [차수연](https://github.com/cha-suyeon) (러너) <br/> 중앙대학교 <br/> 9기~ <br/> |
+| [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> | [박어진](https://github.com/likecola) (러너) <br/> 서울디지털재단 <br/> 9기~ <br/>| [차수연](https://github.com/cha-suyeon) (러너) <br/> 중앙대학교 <br/> 9기~ <br/> |
 | [원상윤](https://github.com/comibear) (러너) <br/> 고려대학교 <br/> 9기~ <br/> | <br/> [이주현](https://github.com/GitLeo1) (러너) <br/> 베이징대학교 <br/> 9기~ <br/> | [신서현](https://github.com/sseoni) (러너) <br/> 숙명여자대학교 <br/> 9기~ <br/> | 
 [신재솔](https://github.com/ysys143) (러너) <br/> 라츠메이칸대학교 <br/> 9기~ <br/>|
 
