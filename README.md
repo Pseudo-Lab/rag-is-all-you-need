@@ -59,8 +59,8 @@
 | -------- | -------- | ---- | ---- |
 | 2024/09/09 | OT       | [박수형](https://github.com/Coding-Child) |  |
 | 2024/09/23 | [DPR](https://arxiv.org/pdf/2004.04906)       | [박수형](https://github.com/Coding-Child) | [week 2](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-2) |
-| 2024/09/30 |  [REALM](https://arxiv.org/pdf/2002.08909) | [원상윤](https://github.com/comibear) |  |
-| 2024/10/07 |  Part 1. | [차수연](https://github.com/cha-suyeon) | [week 3](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-3) |  
+| 2024/09/30 |  [REALM](https://arxiv.org/pdf/2002.08909) | [원상윤](https://github.com/comibear) | [week 3](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-3) |
+| 2024/10/07 |  Part 1. | [차수연](https://github.com/cha-suyeon) |  |  
 | 2024/10/14 |  Part 1. | [이주현](https://github.com/GitLeo1) |  |
 | 2024/10/21 |  Part 1. | [박어진](https://github.com/likecola) |  |
 | 2024/10/28 |  Part 1. | [박수형](https://github.com/Coding-Child) |  |  
