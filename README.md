@@ -44,7 +44,7 @@
 | 2021  | FiD                            | Izacard            |
 | 2021  | EMDR2                          | Singh              |
 | 2022  | RETRO                          | Borgeaud           |
-| 2021  | EPR                            | Rubin              |
+| 2021  | Re2G                           | Michael            |
 | 2022  | Contriever                     | Gautier            |
 | 2023  | RAG-end2end                    | Siriwardhana       |
 | 2023  | Atlas                          | Izacard            |
