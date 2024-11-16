@@ -68,4 +68,4 @@
 | 2024/11/18 |  Part 1. | [신서현](https://github.com/sseoni) |  |
 
 ## 아카이브
-- 링크
+- [Archive](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main)
