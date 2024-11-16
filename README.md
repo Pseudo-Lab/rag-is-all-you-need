@@ -62,7 +62,7 @@
 | 2024/09/30 |  [REALM](https://arxiv.org/pdf/2002.08909) | [원상윤](https://github.com/comibear) | [week 3](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-3) |
 | 2024/10/07 |  [RAG](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) | [차수연](https://github.com/cha-suyeon) | [week 4](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-4) |  
 | 2024/10/21 |  [FiD](https://arxiv.org/pdf/2007.01282) | [이주현](https://github.com/GitLeo1) | [week 5](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-5) |
-| 2024/10/28 |  Part 1. | [박어진](https://github.com/likecola) |  |
+| 2024/10/28 |  [EMDR2](https://arxiv.org/pdf/2106.05346) | [박어진](https://github.com/likecola) | [week 6](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-6) |
 | 2024/11/04 |  Part 1. | [박수형](https://github.com/Coding-Child) |  |  
 | 2024/11/11 |  Part 1. | [신재솔](https://github.com/ysys143) |  
 | 2024/11/18 |  Part 1. | [신서현](https://github.com/sseoni) |  
