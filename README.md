@@ -65,7 +65,7 @@
 | 2024/10/28 |  [EMDR2](https://arxiv.org/pdf/2106.05346) | [박어진](https://github.com/likecola) | [week 6](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-6) |
 | 2024/11/04 |  [Re2G](https://aclanthology.org/2022.naacl-main.194.pdf) | [박수형](https://github.com/Coding-Child) | [week 7](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-7) |  
 | 2024/11/11 |  [EPR](https://aclanthology.org/2022.naacl-main.191.pdf) | [신재솔](https://github.com/ysys143) | [week 8](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-8)  |  
-| 2024/11/18 |  Part 1. | [신서현](https://github.com/sseoni) |  |
+| 2024/11/18 |  [RETRO](https://arxiv.org/pdf/2112.04426) | [신서현](https://github.com/sseoni) | [week 9] |
 
 ## 아카이브
 - [Archive](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main)
