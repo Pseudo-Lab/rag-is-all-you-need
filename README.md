@@ -57,7 +57,7 @@
 ### 발표 스케쥴
 | 날짜 | 내용 | 발표자 | archiving
 | -------- | -------- | ---- | ---- |
-| 2024/09/09 | OT       | [박수형](https://github.com/Coding-Child) |  |
+| 2024/09/09 | OT | [박수형](https://github.com/Coding-Child) |  |
 | 2024/09/23 | [DPR](https://arxiv.org/pdf/2004.04906)       | [박수형](https://github.com/Coding-Child) | [week 2](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-2) |
 | 2024/09/30 |  [REALM](https://arxiv.org/pdf/2002.08909) | [원상윤](https://github.com/comibear) | [week 3](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-3) |
 | 2024/10/07 |  [RAG](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) | [차수연](https://github.com/cha-suyeon) | [week 4](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-4) |  
@@ -66,6 +66,7 @@
 | 2024/11/04 |  [Re2G](https://aclanthology.org/2022.naacl-main.194.pdf) | [박수형](https://github.com/Coding-Child) | [week 7](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-7) |  
 | 2024/11/11 |  [EPR](https://aclanthology.org/2022.naacl-main.191.pdf) | [신재솔](https://github.com/ysys143) | [week 8](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-8)  |  
 | 2024/11/18 |  [RETRO](https://arxiv.org/pdf/2112.04426) | [신서현](https://github.com/sseoni) | [week 9](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-9) |
+| 2024/11/25 |  [Overview]  | [박수형](https://github.com/Coding-Child) | [week 10](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main/Week-10) |
 
 ## 아카이브
 - [Archive](https://github.com/Pseudo-Lab/rag-is-all-you-need/tree/main)
